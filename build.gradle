@@ -1,0 +1,12 @@
+apply plugin: 'java'
+
+apply plugin: 'application'
+mainClassName = 'valebat.Valebat'
+
+repositories {
+    mavenCentral()
+}
+
+run{
+    standardInput = System.in
+}

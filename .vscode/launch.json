@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Valebat",
+            "request": "launch",
+            "mainClass": "valebat.Valebat"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Valebat",
+            "request": "launch",
+            "mainClass": "valebat.Valebat",
+            "projectName": "poorly-named-text-adventure"
+        }
+    ]
+}
