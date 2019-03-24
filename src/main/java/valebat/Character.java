@@ -153,6 +153,15 @@ class Character{
 			type("	Persuasion: "+Integer.valueOf(this.persua));
 		}
 	}
+
+	public class Gender{
+		public Gender(char code){
+			switch(code){
+				case 'm': case 'M':
+
+			}
+		}
+	}
 	
 	//tipity typity function
 	public static void type(String input){
